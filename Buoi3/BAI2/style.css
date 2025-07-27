@@ -8,7 +8,7 @@ body {
   background: linear-gradient(to right, #9762BC, #77A9DE);
 }
 .info{
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.2);
     width: 350px;
     padding: 30px;
     margin: 175px auto;
@@ -52,7 +52,7 @@ body {
     margin: 12px auto;
     text-align: left;
     font-size: 15px;
-    color: rgb(35, 34, 34);
+    color: rgb(91, 91, 91);
 }
 .contact{
     justify-content: center;
